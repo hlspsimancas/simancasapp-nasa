@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/simancasapp-nasa/static/css/main.d328b621.chunk.css",
+    "main.js": "/simancasapp-nasa/static/js/main.7465d9ca.chunk.js",
+    "main.js.map": "/simancasapp-nasa/static/js/main.7465d9ca.chunk.js.map",
+    "runtime-main.js": "/simancasapp-nasa/static/js/runtime-main.ab793d48.js",
+    "runtime-main.js.map": "/simancasapp-nasa/static/js/runtime-main.ab793d48.js.map",
+    "static/css/2.e831bed6.chunk.css": "/simancasapp-nasa/static/css/2.e831bed6.chunk.css",
+    "static/js/2.64d04aea.chunk.js": "/simancasapp-nasa/static/js/2.64d04aea.chunk.js",
+    "static/js/2.64d04aea.chunk.js.map": "/simancasapp-nasa/static/js/2.64d04aea.chunk.js.map",
+    "index.html": "/simancasapp-nasa/index.html",
+    "precache-manifest.2038097bc04fdfb183a7904317c70713.js": "/simancasapp-nasa/precache-manifest.2038097bc04fdfb183a7904317c70713.js",
+    "service-worker.js": "/simancasapp-nasa/service-worker.js",
+    "static/css/2.e831bed6.chunk.css.map": "/simancasapp-nasa/static/css/2.e831bed6.chunk.css.map",
+    "static/css/main.d328b621.chunk.css.map": "/simancasapp-nasa/static/css/main.d328b621.chunk.css.map",
+    "static/js/2.64d04aea.chunk.js.LICENSE.txt": "/simancasapp-nasa/static/js/2.64d04aea.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/simancasapp-nasa/static/media/space-bg.179e7e58.jpg",
+    "static/media/font-awesome.min.css": "/simancasapp-nasa/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab793d48.js",
+    "static/css/2.e831bed6.chunk.css",
+    "static/js/2.64d04aea.chunk.js",
+    "static/css/main.d328b621.chunk.css",
+    "static/js/main.7465d9ca.chunk.js"
+  ]
+}
